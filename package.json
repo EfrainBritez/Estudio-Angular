@@ -1,0 +1,19 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "For study Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EfrainBritez/Estudio-Angular.git"
+  },
+  "author": "EfrainBritez\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D \u001b[F\u001b[F\u001b[\u001b[2~asdfds\u001b[Ds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EfrainBritez/Estudio-Angular/issues"
+  },
+  "homepage": "https://github.com/EfrainBritez/Estudio-Angular#readme"
+}
